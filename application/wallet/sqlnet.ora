@@ -1,2 +1,2 @@
-WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="D:\Fall-2024\DBMS\wallet")))
+WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="~/proj3/application/wallet")))
 SSL_SERVER_DN_MATCH=yes
